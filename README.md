@@ -1,1 +1,1 @@
-# PowerHub
+# PowerHub dsc.gg/powerhub
