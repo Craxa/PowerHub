@@ -1,1 +1,1 @@
-+obf.lua
+https://pastebin.com/tQMAtnMK
